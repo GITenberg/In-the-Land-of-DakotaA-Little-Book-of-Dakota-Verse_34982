@@ -1,0 +1,26 @@
+_repo: In-the-Land-of-DakotaA-Little-Book-of-Dakota-Verse_34982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Winsted, Huldah Lucile
+    alias: Winstead, Huldah Lucile
+    gutenberg_agent_id: '37363'
+    url: http://www.gutenberg.org/2009/agents/37363
+description: ''
+gutenberg_issued: '2011-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'North Dakota -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: 'In the Land of Dakota: A Little Book of North Dakota Verse'
+url: http://www.gutenberg.org/ebooks/34982
